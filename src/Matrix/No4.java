@@ -8,7 +8,7 @@ public class No4 {
         Scanner scan = new Scanner(System.in);
         System.out.print("Masukan Jumlah Baris Matriks : ");
         m = scan.nextInt();
-        System.out.print("Masukan jumlah kolom Matriks");
+        System.out.print("Masukan jumlah kolom Matriks : ");
         n = scan.nextInt();
         System.out.print("Masukan Elemen Matriks : ");
         for(i = 0; i < m; i++){
